@@ -1,0 +1,41 @@
+﻿@page "/todo"
+
+
+<PageTitle>
+    My To Do List
+</PageTitle>
+
+<h1>To do</h1>
+<h1>This is a list of my to do items.</h1>
+<p>You currently have @todoList.Count(todo => !todo.Done) items left to do! </p>
+<p>You have completed @todoList.Count(todo => todo.Done) items! </p>
+
+<!-- loop through list, and add item to unordered list -->
+<ul>
+@foreach ( var todo in todoList){
+
+    <li>
+        <input type="checkbox" @bind="todo.Done"/>
+        @todo.Item
+    </li>
+}    
+</ul>
+
+<input placeholder="Add task" @bind="newToDo" />
+<button @onclick="Add">Add</button>
+
+@code {
+
+    private List<TodoItem> todoList = new(); 
+    private string? newToDo;
+
+    private void Add(){
+        if(!string.IsNullOrWhiteSpace(newToDo)){
+            todoList.Add(new TodoItem {Item = newToDo});
+            //Clear variable for next re-use
+            newToDo = string.Empty;
+        }
+    }
+
+}
+
