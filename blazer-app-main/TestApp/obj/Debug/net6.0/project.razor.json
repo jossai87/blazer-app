@@ -157,43 +157,6 @@
         }
       },
       {
-        "HashCode": -1553884121,
-        "Kind": "Components.Component",
-        "Name": "TestApp.Pages.ToDO",
-        "AssemblyName": "TestApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ToDO"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Pages.ToDO",
-          "Common.TypeNamespace": "TestApp.Pages",
-          "Common.TypeNameIdentifier": "ToDO"
-        }
-      },
-      {
-        "HashCode": 698241534,
-        "Kind": "Components.Component",
-        "Name": "TestApp.Pages.ToDO",
-        "AssemblyName": "TestApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TestApp.Pages.ToDO"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Pages.ToDO",
-          "Common.TypeNamespace": "TestApp.Pages",
-          "Common.TypeNameIdentifier": "ToDO",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 590737290,
         "Kind": "Components.Component",
         "Name": "TestApp.Shared.SurveyPrompt",
