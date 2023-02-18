@@ -9,150 +9,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 854153028,
+        "HashCode": 1371602247,
         "Kind": "Components.Component",
-        "Name": "TestApp.App",
+        "Name": "TestApp.Shared.NavMenu",
         "AssemblyName": "TestApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.App",
-          "Common.TypeNamespace": "TestApp",
-          "Common.TypeNameIdentifier": "App"
+          "Common.TypeName": "TestApp.Shared.NavMenu",
+          "Common.TypeNamespace": "TestApp.Shared",
+          "Common.TypeNameIdentifier": "NavMenu"
         }
       },
       {
-        "HashCode": 389908163,
+        "HashCode": 1442304469,
         "Kind": "Components.Component",
-        "Name": "TestApp.App",
+        "Name": "TestApp.Shared.NavMenu",
         "AssemblyName": "TestApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TestApp.App"
+            "TagName": "TestApp.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.App",
-          "Common.TypeNamespace": "TestApp",
-          "Common.TypeNameIdentifier": "App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -692189759,
-        "Kind": "Components.Component",
-        "Name": "TestApp.Pages.FetchData",
-        "AssemblyName": "TestApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Pages.FetchData",
-          "Common.TypeNamespace": "TestApp.Pages",
-          "Common.TypeNameIdentifier": "FetchData"
-        }
-      },
-      {
-        "HashCode": 1231887114,
-        "Kind": "Components.Component",
-        "Name": "TestApp.Pages.FetchData",
-        "AssemblyName": "TestApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TestApp.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Pages.FetchData",
-          "Common.TypeNamespace": "TestApp.Pages",
-          "Common.TypeNameIdentifier": "FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -514348586,
-        "Kind": "Components.Component",
-        "Name": "TestApp.Pages.Index",
-        "AssemblyName": "TestApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Pages.Index",
-          "Common.TypeNamespace": "TestApp.Pages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": 1784259212,
-        "Kind": "Components.Component",
-        "Name": "TestApp.Pages.Index",
-        "AssemblyName": "TestApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TestApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Pages.Index",
-          "Common.TypeNamespace": "TestApp.Pages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1322221849,
-        "Kind": "Components.Component",
-        "Name": "TestApp.Pages.Counter",
-        "AssemblyName": "TestApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Pages.Counter",
-          "Common.TypeNamespace": "TestApp.Pages",
-          "Common.TypeNameIdentifier": "Counter"
-        }
-      },
-      {
-        "HashCode": -1312303394,
-        "Kind": "Components.Component",
-        "Name": "TestApp.Pages.Counter",
-        "AssemblyName": "TestApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TestApp.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Pages.Counter",
-          "Common.TypeNamespace": "TestApp.Pages",
-          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeName": "TestApp.Shared.NavMenu",
+          "Common.TypeNamespace": "TestApp.Shared",
+          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -322,39 +211,150 @@
         }
       },
       {
-        "HashCode": 1371602247,
+        "HashCode": 1322221849,
         "Kind": "Components.Component",
-        "Name": "TestApp.Shared.NavMenu",
+        "Name": "TestApp.Pages.Counter",
         "AssemblyName": "TestApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Shared.NavMenu",
-          "Common.TypeNamespace": "TestApp.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
+          "Common.TypeName": "TestApp.Pages.Counter",
+          "Common.TypeNamespace": "TestApp.Pages",
+          "Common.TypeNameIdentifier": "Counter"
         }
       },
       {
-        "HashCode": 1442304469,
+        "HashCode": -1312303394,
         "Kind": "Components.Component",
-        "Name": "TestApp.Shared.NavMenu",
+        "Name": "TestApp.Pages.Counter",
         "AssemblyName": "TestApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TestApp.Shared.NavMenu"
+            "TagName": "TestApp.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestApp.Shared.NavMenu",
-          "Common.TypeNamespace": "TestApp.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
+          "Common.TypeName": "TestApp.Pages.Counter",
+          "Common.TypeNamespace": "TestApp.Pages",
+          "Common.TypeNameIdentifier": "Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -692189759,
+        "Kind": "Components.Component",
+        "Name": "TestApp.Pages.FetchData",
+        "AssemblyName": "TestApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TestApp.Pages.FetchData",
+          "Common.TypeNamespace": "TestApp.Pages",
+          "Common.TypeNameIdentifier": "FetchData"
+        }
+      },
+      {
+        "HashCode": 1231887114,
+        "Kind": "Components.Component",
+        "Name": "TestApp.Pages.FetchData",
+        "AssemblyName": "TestApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TestApp.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TestApp.Pages.FetchData",
+          "Common.TypeNamespace": "TestApp.Pages",
+          "Common.TypeNameIdentifier": "FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -514348586,
+        "Kind": "Components.Component",
+        "Name": "TestApp.Pages.Index",
+        "AssemblyName": "TestApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TestApp.Pages.Index",
+          "Common.TypeNamespace": "TestApp.Pages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": 1784259212,
+        "Kind": "Components.Component",
+        "Name": "TestApp.Pages.Index",
+        "AssemblyName": "TestApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TestApp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TestApp.Pages.Index",
+          "Common.TypeNamespace": "TestApp.Pages",
+          "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 854153028,
+        "Kind": "Components.Component",
+        "Name": "TestApp.App",
+        "AssemblyName": "TestApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TestApp.App",
+          "Common.TypeNamespace": "TestApp",
+          "Common.TypeNameIdentifier": "App"
+        }
+      },
+      {
+        "HashCode": 389908163,
+        "Kind": "Components.Component",
+        "Name": "TestApp.App",
+        "AssemblyName": "TestApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TestApp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TestApp.App",
+          "Common.TypeNamespace": "TestApp",
+          "Common.TypeNameIdentifier": "App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

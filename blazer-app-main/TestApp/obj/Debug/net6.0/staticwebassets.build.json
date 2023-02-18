@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SphpYZ5IXM5mB+d2RMqrAxWX9uPYc/uikAF7viKYRIg=",
+  "Hash": "/nnmI7e7wmDblqcGZcO9/e7zVaBLHYVtRhzFu5Vjdsc=",
   "Source": "TestApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -388,7 +388,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll",
@@ -405,7 +405,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/lib/net6.0/Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/lib/net6.0/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll",
@@ -459,6 +459,23 @@
       "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/lib/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
+      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "SourceId": "TestApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.http/7.0.0/lib/net6.0/Microsoft.Extensions.Http.dll"
+    },
+    {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
       "SourceId": "TestApp",
       "SourceType": "Computed",
@@ -473,7 +490,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll",
@@ -490,7 +507,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.logging/6.0.0/lib/netstandard2.1/Microsoft.Extensions.Logging.dll"
+      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.logging/7.0.0/lib/net6.0/Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Options.dll",
@@ -507,7 +524,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.options/6.0.0/lib/netstandard2.1/Microsoft.Extensions.Options.dll"
+      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.options/7.0.0/lib/net6.0/Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll",
@@ -524,7 +541,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.primitives/6.0.0/lib/net6.0/Microsoft.Extensions.Primitives.dll"
+      "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.extensions.primitives/7.0.0/lib/net6.0/Microsoft.Extensions.Primitives.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.JSInterop.dll",
@@ -3417,6 +3434,23 @@
       "OriginalItemSpec": "/Users/jossai/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/6.0.4/runtimes/browser-wasm/lib/net6.0/WindowsBase.dll"
     },
     {
+      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/+6sbRJG6.gz",
+      "SourceId": "TestApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Http.dll"
+    },
+    {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/+bgZ1hSF.gz",
       "SourceId": "TestApp",
       "SourceType": "Computed",
@@ -3500,6 +3534,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll"
+    },
+    {
+      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/0wT4NCyw.gz",
+      "SourceId": "TestApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/0y2XlO5Z.gz",
@@ -3706,6 +3757,23 @@
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/System.Net.NameResolution.dll"
     },
     {
+      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/3WswBoS+.gz",
+      "SourceId": "TestApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/3X3EvpVQ.gz",
       "SourceId": "TestApp",
       "SourceType": "Computed",
@@ -3806,23 +3874,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/System.Linq.dll"
-    },
-    {
-      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/6NKE9M67.gz",
-      "SourceId": "TestApp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/76qTYWFC.gz",
@@ -3944,23 +3995,6 @@
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
-      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/9NxukQK6.gz",
-      "SourceId": "TestApp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll"
-    },
-    {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/9Tji7JzW.gz",
       "SourceId": "TestApp",
       "SourceType": "Computed",
@@ -3993,23 +4027,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll"
-    },
-    {
-      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/9ywgCihg.gz",
-      "SourceId": "TestApp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/ABCtZJzP.gz",
@@ -4403,6 +4420,23 @@
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js"
     },
     {
+      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/DCcwBaLO.gz",
+      "SourceId": "TestApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll"
+    },
+    {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/DcZK5FEj.gz",
       "SourceId": "TestApp",
       "SourceType": "Computed",
@@ -4435,23 +4469,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll"
-    },
-    {
-      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/dqAVDrQk.gz",
-      "SourceId": "TestApp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/DsXjyUew.gz",
@@ -4724,23 +4741,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll"
-    },
-    {
-      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/fzctkfm9.gz",
-      "SourceId": "TestApp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Options.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/g8N68a1t.gz",
@@ -5083,6 +5083,23 @@
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/System.Diagnostics.Tools.dll"
     },
     {
+      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/JpF540LM.gz",
+      "SourceId": "TestApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll"
+    },
+    {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/jrQ1F1ai.gz",
       "SourceId": "TestApp",
       "SourceType": "Computed",
@@ -5406,6 +5423,23 @@
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/System.Net.WebSockets.dll"
     },
     {
+      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/LZygOvSa.gz",
+      "SourceId": "TestApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/m2OIvar3.gz",
       "SourceId": "TestApp",
       "SourceType": "Computed",
@@ -5625,6 +5659,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll"
+    },
+    {
+      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/NXbJrknT.gz",
+      "SourceId": "TestApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Options.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/ObarXpf3.gz",
@@ -6152,23 +6203,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/System.Collections.NonGeneric.dll"
-    },
-    {
-      "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/sWcNrmYU.gz",
-      "SourceId": "TestApp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net6.0/build-gz/T4zCWBUF.gz",

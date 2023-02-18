@@ -1,5 +1,7 @@
-﻿@page "/todo"
-
+﻿@using TestApp.Models;
+@page "/todo"
+@using TestApp.Clients;
+@inject  NasaClient NasaClient;  
 
 <PageTitle>
     My To Do List
@@ -21,6 +23,8 @@
 }    
 </ul>
 
+<p>@nasaResponse </p>
+
 <input placeholder="Add task" @bind="newToDo" />
 <button @onclick="Add">Add</button>
 
@@ -36,6 +40,13 @@
             newToDo = string.Empty;
         }
     }
+
+   
+    private NasaResponse? nasaResponse = null;
+    protected override async Task OnInitializedAsync(){
+        nasaResponse = await NasaClient.GetNasa();
+    } 
+    
 
 }
 
