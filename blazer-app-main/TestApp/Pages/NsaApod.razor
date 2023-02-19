@@ -38,7 +38,9 @@
     private string? enteredDate;
 
     protected async Task AddDate(){
+        if(enteredDate != null){
         nasaResponse = await NasaClient.GetNasa(enteredDate);
+    }
     }
        
     
