@@ -34,8 +34,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Pages/NsaApod.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTnNhQXBvZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Pages/ToDo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9Eby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Shared/Components/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvSGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Shared/Components/NasaImageSection.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmFzYUltYWdlU2VjdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Shared/SurveyPrompt.razor]

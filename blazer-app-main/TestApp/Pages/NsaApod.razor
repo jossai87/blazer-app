@@ -1,0 +1,48 @@
+﻿@using TestApp.Models;
+@page "/nasa-apod"
+@using TestApp.Clients;
+@inject  NasaClient NasaClient;  
+@using TestApp.Shared.Components;
+
+
+<PageTitle>
+    Nasa APOD
+</PageTitle>
+
+<Header title="@nasaResponse.title" subTitle="@nasaResponse.date" description="@nasaResponse.explanation" ></Header>
+<br>
+<p>Please enter date in the following format: YYY-MM-DD</p>
+ <input placeholder="YYY-MM-DD" @bind="enteredDate" />
+<button @onclick="AddDate">Update</button> 
+<br>
+<br>
+<NasaImageSection imgUrl="@nasaResponse.url" hdUrl="@nasaResponse.hdurl" copyright="@nasaResponse.copyright" ></NasaImageSection>
+
+<!-- 
+1.) create an input with button
+2.) needs to accept a date (YYY-MM-DD) -> then append date to URL
+
+    -->
+
+
+
+@code {
+
+   
+    private NasaResponse? nasaResponse = null;
+    protected override async Task OnInitializedAsync(){
+        nasaResponse = await NasaClient.GetNasa(null);
+    }
+
+
+    private string? enteredDate;
+
+    protected async Task AddDate(){
+        nasaResponse = await NasaClient.GetNasa(enteredDate);
+    }
+       
+    
+    
+
+}
+
