@@ -1,5 +1,7 @@
 ﻿@page "/"
 @attribute [AllowAnonymous]
+@inject   CustomAuthenticationStateProvider _authenticationStateProvider
+
 <PageTitle>Index</PageTitle>
 
 <h1>Hello, world!</h1>
@@ -10,4 +12,14 @@ Welcome to your new app.
 
 <button class="btn btn-primary" @onclick="RegularUserClicked"> Regular User Login </button>
 <button class="btn btn-secondary" @onclick="AdminUserClicked"> Admin User Login </button>
+
+@code{
+    private void RegularUserCLicked(){
+        _authenticationStateProvider.RegularFakedSignIn();
+    }
+
+        private void AdminUserCLicked(){
+        _authenticationStateProvider.AdminFakedSignIn();
+    }
+}
 

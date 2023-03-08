@@ -1,6 +1,8 @@
 using System.Security.Claims;
 using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Authorization;
+using Microsoft.AspNetCore.Authorization;
+
+
 
 public class CustomAuthenticationStateProvider: AuthenticationStateProvider {
 
@@ -9,7 +11,7 @@ public override async Task<AuthenticationState> GetAuthenticationStateAsync(){
     return await Task.FromResult(new AuthenticationState(AnonymousUser));
 }
 
-//Ability to check Auth state (sign in / sign out)
+//Ability to check Auth sstate (sign in / sign out)
 private ClaimsPrincipal AnonymousUser => new(new ClaimsIdentity(Array.Empty<Claim>()));
 
 //delcare fake user
@@ -39,17 +41,17 @@ private ClaimsPrincipal AdminFakedUser{
 //Methods for signing in and out
 public void RegularFakedSignIn(){
     var results = Task.FromResult(new AuthenticationState(RegularFakdeUser));
-    NotifyAuthenticationStateChanged(result)
+    NotifyAuthenticationStateChanged(result);
 }
 
 public void AdminFakedSignIn(){
     var results = Task.FromResult(new AuthenticationState(AdminFakdeUser));
-    NotifyAuthenticationStateChanged(result)
+    NotifyAuthenticationStateChanged(result);
 }
 
 public void SignOut(){
     var results = Task.FromResult(new AuthenticationState(AnonymousUser));
-    NotifyAuthenticationStateChanged(result)
+    NotifyAuthenticationStateChanged(result);
 }
 
 } 
