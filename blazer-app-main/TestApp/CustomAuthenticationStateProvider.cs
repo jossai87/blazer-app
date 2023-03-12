@@ -11,7 +11,7 @@
     }
 
     //Ability to check Auth sstate (sign in / sign out)
-    private ClaimsPrincipal AnonymousUser => new(new ClaimsIdentity(Array.Empty<Claim>()));
+    private ClaimsPrincipal AnonymousUser => new(new ClaimsIdentity(Array.Empty<Claim>(), "empty" ));
 
     //delcare fake user
     private ClaimsPrincipal RegularFakedUser{
