@@ -1,0 +1,77 @@
+{
+  "SerializedFilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/obj/Debug/net7.0/project.razor.json",
+  "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/TestApp.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "6.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "TestApp",
+  "Documents": [
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Pages/ToDo.razor",
+      "TargetPath": "Pages\\ToDo.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Shared/MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Shared/NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Pages/Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Pages/FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Shared/Components/Header.razor",
+      "TargetPath": "Shared\\Components\\Header.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Pages/NsaApod.razor",
+      "TargetPath": "Pages\\NsaApod.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Shared/Components/NasaImageSection.razor",
+      "TargetPath": "Shared\\Components\\NasaImageSection.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Shared/SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jossai/Desktop/School/CSU-Fall2022/CPSC6175–Web_Engineering_and_Technologies-Spring2023/blazer-app/blazer-app-main/TestApp/Pages/Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}

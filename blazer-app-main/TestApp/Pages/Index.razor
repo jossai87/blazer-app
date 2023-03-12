@@ -14,11 +14,11 @@ Welcome to your new app.
 <button class="btn btn-secondary" @onclick="AdminUserClicked"> Admin User Login </button>
 
 @code{
-    private void RegularUserCLicked(){
+    private void RegularUserClicked(){
         _authenticationStateProvider.RegularFakedSignIn();
     }
 
-        private void AdminUserCLicked(){
+        private void AdminUserClicked(){
         _authenticationStateProvider.AdminFakedSignIn();
     }
 }
